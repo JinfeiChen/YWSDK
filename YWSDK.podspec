@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name = "YWSDK"
   s.version = "0.1.0"
-  s.summary = "This is YWSDK test"
+  s.summary = "This is the 5399's game channel sdk"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"jinfei_chen@icloud.com"=>"jinfei_chen@icloud.com"}
   s.homepage = "https://github.com/JinfeiChen/YWSDK"
